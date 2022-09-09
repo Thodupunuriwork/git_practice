@@ -1,0 +1,2 @@
+adding content in work.txt file
+hello !
